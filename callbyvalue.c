@@ -10,7 +10,7 @@ void main()
 	printf("\n Before swap :\n");
 	printf("\n value of x : %d",x);
 	printf("\n value of y : %d",y);
-	swap(x,y);
+	swap(x,y);// call by value
 	printf("\n After swap :\n");
 	printf("\n value of x : %d",x);
 	printf("\n value of y : %d",y);
