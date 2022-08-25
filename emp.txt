@@ -1,0 +1,6 @@
+Id : 102
+Name : sita
+salary : 67000.00
+Id : 103
+Name : shyam
+salary : 89000.00
